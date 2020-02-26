@@ -1,0 +1,27 @@
+h1{
+    color:red;
+    font-size: 200px;
+
+
+}
+.bosna{
+    background-color: yellow;
+
+}
+
+.burek{
+    background-color: green;
+}
+.brokula{
+    background-color: red;
+}
+
+#heading{
+    color: blue;
+}
+.circular{
+    border-radius: 100%;
+}
+.brokula:hover{
+    background-color: yellow;
+}
